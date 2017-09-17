@@ -1,0 +1,9 @@
+.fa-times {
+  cursor: pointer;
+  float: right;
+}
+
+.detailsContainer, .boligInfo {
+  display: flex;
+  justify-content: space-between;
+}
